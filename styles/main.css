@@ -1,0 +1,16 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+body{
+    color:aquamarine;
+}
+
+.quals{
+    border-collapse: collapse;
+}
+.quals th{
+    border-bottom:3px solid #ccc;
+    padding:5px;
+}
+.quals td{
+    border-bottom:1px solid #ccc;
+    padding:5px;
+}
