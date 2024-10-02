@@ -1,8 +1,20 @@
 @import url(https://fonts.googleapis.com/css?family=Raleway);
 body{
-    color:aquamarine;
+    color:rgb(0, 255, 0);
+    background-color: #070324;
 }
 
+h1, h2{
+    font-family: 'Raleway', sans-serif;
+}
+
+a{
+    color: rgb(106, 98, 192);
+}
+
+ul{
+    color: aquamarine;
+}
 .quals{
     border-collapse: collapse;
 }
